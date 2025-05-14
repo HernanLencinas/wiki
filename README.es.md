@@ -1,6 +1,5 @@
 # DeepWiki-Open
 
-![Banner de DeepWiki](screenshots/Deepwiki.png)
 
 **DeepWiki** crea automáticamente wikis hermosas e interactivas para cualquier repositorio de GitHub, GitLab o BitBucket. ¡Solo ingresa el nombre de un repositorio y DeepWiki:
 
