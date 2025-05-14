@@ -1,5 +1,5 @@
 
-**DeepWiki** crea automáticamente wikis hermosas e interactivas para cualquier repositorio de GitHub, GitLab o BitBucket. ¡Solo ingresa el nombre de un repositorio y DeepWiki:
+**DeepWiki** crea automáticamente wikis hermosas e interactivas para cualquier repositorio de GitHub, GitLab o BitBucket. ¡Solo ingresa el nombre de un repositorio y:
 
 1. Analizará la estructura del código
 2. Generará documentación completa
@@ -24,7 +24,7 @@
 ```bash
 # Clonar el repositorio
 git clone https://github.com/AsyncFuncAI/deepwiki-open.git
-cd deepwiki-open
+cd-open
 
 # Crear un archivo .env con tus claves API
 echo "GOOGLE_API_KEY=your_google_api_key" > .env
@@ -84,7 +84,7 @@ npm run dev
 yarn dev
 ```
 
-#### Paso 4: ¡Usar DeepWiki!
+#### Paso 4: ¡Usar!
 
 1. Abre [http://localhost:3000](http://localhost:3000) en tu navegador
 2. Ingresa un repositorio de GitHub, GitLab o Bitbucket (como `https://github.com/openai/codex`, `https://github.com/microsoft/autogen`, `https://gitlab.com/gitlab-org/gitlab`, o `https://bitbucket.org/redradish/atlassian_app_versions`)
@@ -227,7 +227,7 @@ La configuración de base_url del Cliente OpenAI está diseñada principalmente 
 - Permite a las organizaciones usar sus propios servicios LLM auto-alojados o desplegados a medida
 - Soporta integración con servicios de terceros compatibles con la API de OpenAI
 
-**Próximamente**: En futuras actualizaciones, DeepWiki soportará un modo donde los usuarios deberán proporcionar sus propias claves API en las solicitudes. Esto permitirá a los clientes empresariales con canales privados utilizar sus disposiciones API existentes sin compartir credenciales con el despliegue de DeepWiki.
+**Próximamente**: En futuras actualizaciones, soportará un modo donde los usuarios deberán proporcionar sus propias claves API en las solicitudes. Esto permitirá a los clientes empresariales con canales privados utilizar sus disposiciones API existentes sin compartir credenciales con el despliegue de.
 
 ## 🤖 Funciones de Preguntas e Investigación Profunda
 
@@ -256,8 +256,8 @@ Para usar Investigación Profunda, simplemente activa el interruptor "Investigac
 
 ## 📱 Capturas de Pantalla
 
-![Interfaz Principal de DeepWiki](screenshots/Interface.png)
-*La interfaz principal de DeepWiki*
+![Interfaz Principal de](screenshots/Interface.png)
+*La interfaz principal de*
 
 ![Soporte para Repositorios Privados](screenshots/privaterepo.png)
 *Acceso a repositorios privados con tokens de acceso personal*
@@ -267,9 +267,9 @@ Para usar Investigación Profunda, simplemente activa el interruptor "Investigac
 
 ### Video de Demostración
 
-[![Video de Demostración de DeepWiki](https://img.youtube.com/vi/zGANs8US8B4/0.jpg)](https://youtu.be/zGANs8US8B4)
+[![Video de Demostración de](https://img.youtube.com/vi/zGANs8US8B4/0.jpg)](https://youtu.be/zGANs8US8B4)
 
-*¡Mira DeepWiki en acción!*
+*¡Mira en acción!*
 
 ## ❓ Solución de Problemas
 
