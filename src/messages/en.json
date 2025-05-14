@@ -82,7 +82,7 @@
     "viewDefault": "View Default"
   },
   "footer": {
-    "copyright": "DeepWiki - AI-powered documentation for code repositories"
+    "copyright": ""
   },
   "ask": {
     "placeholder": "Ask a question about this repository...",
